@@ -2,7 +2,7 @@
   <h1>Hello I'm ByeoLi <img src="https://user-images.githubusercontent.com/99159418/234497303-71568c04-2d9e-4d9e-b7a1-9313871b9b7c.png" height="30px"/></h1>
 </p>
 <p>
-  <h3><img src="https://user-images.githubusercontent.com/99159418/234497426-caabc891-b0d3-41f1-a722-e8cadd038665.png" width="30px" height="30px"/> This my youtube views</h3>
+  <h3><img src="https://user-images.githubusercontent.com/99159418/234497426-caabc891-b0d3-41f1-a722-e8cadd038665.png" width="30px" height="30px"/> This is my youtube views</h3>
 </p>
 <a href="https://www.youtube.com/channel/UCX4Uca-WEkZY-ri8wwQaMHQ">
   <em>
@@ -15,7 +15,7 @@
 ![youtube](https://img.shields.io/youtube/channel/views/UCX4Uca-WEkZY-ri8wwQaMHQ?label=ByeoLi&style=social)
 
 <p>
-  <h3><img src="https://user-images.githubusercontent.com/99159418/234497426-caabc891-b0d3-41f1-a722-e8cadd038665.png" width="30px" height="30px"/> This my github follower</h3>
+  <h3><img src="https://user-images.githubusercontent.com/99159418/234497426-caabc891-b0d3-41f1-a722-e8cadd038665.png" width="30px" height="30px"/> This is my github follower</h3>
 </p>
 
 ![git](https://img.shields.io/github/followers/fallingstary?style=social)
